@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_shezhi",
+    "texture": "d3LlgPThdBM5gcSrxkm3yo",
+    "rect": [
+      0,
+      0,
+      130,
+      62
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      131,
+      62
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_rsxz",
+    "texture": "daDOsgF3FGipFHnj8XwKSp",
+    "rect": [
+      0,
+      0,
+      174,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      41
+    ]
+  }
+}

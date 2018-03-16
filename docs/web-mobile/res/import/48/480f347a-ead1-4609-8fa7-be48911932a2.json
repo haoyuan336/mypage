@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_sea",
+    "texture": "73/I0R6C5J7KgwYmBf9E9T",
+    "rect": [
+      0,
+      0,
+      470,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      470,
+      106
+    ]
+  }
+}

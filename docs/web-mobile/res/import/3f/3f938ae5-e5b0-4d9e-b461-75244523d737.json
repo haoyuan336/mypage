@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_niu_wuhuaniu",
+    "texture": "5ae00hqTJMHatAPM/ejX0C",
+    "rect": [
+      1,
+      0,
+      94,
+      33
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      97,
+      34
+    ]
+  }
+}

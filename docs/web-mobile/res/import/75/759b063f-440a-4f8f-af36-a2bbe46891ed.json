@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_yikai",
+    "texture": "568i5XehxEgZbYbAXIcTeA",
+    "rect": [
+      0,
+      0,
+      110,
+      63
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      111,
+      64
+    ]
+  }
+}

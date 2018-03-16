@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_roomcreate_niuniu",
+    "texture": "93SnCdLG9CT6IDLE2a8VO7",
+    "rect": [
+      1,
+      1,
+      209,
+      133
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      210,
+      135
+    ]
+  }
+}

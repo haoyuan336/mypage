@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titlebg",
+    "texture": "79S8koqidIjIFgOyXzbWNX",
+    "rect": [
+      0,
+      1,
+      490,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      490,
+      85
+    ]
+  }
+}

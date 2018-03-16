@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_end_win_gdy",
+    "texture": "72tRq3f3RMRp+1M6EehfKK",
+    "rect": [
+      0,
+      0,
+      1002,
+      667
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1002,
+      667
+    ]
+  }
+}

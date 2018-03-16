@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nogainBg",
+    "texture": "c0SlDOYL9KgZVdH6Q0yMFF",
+    "rect": [
+      0,
+      0,
+      782,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      782,
+      720
+    ]
+  }
+}

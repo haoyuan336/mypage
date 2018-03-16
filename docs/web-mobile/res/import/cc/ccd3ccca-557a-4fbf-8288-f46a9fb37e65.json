@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_yinyue",
+    "texture": "6f9UMssPZF/qlqOf/s3Hal",
+    "rect": [
+      0,
+      0,
+      99,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      38
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_gdy_sx",
+    "texture": "35TaN2AX5LD5bdlOP/x77l",
+    "rect": [
+      0,
+      0,
+      332,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      332,
+      114
+    ]
+  }
+}

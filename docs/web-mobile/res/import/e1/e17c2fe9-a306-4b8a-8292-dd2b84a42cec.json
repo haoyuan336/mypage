@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_5",
+    "texture": "c2S3zFmdhBablWBkcij5d+",
+    "rect": [
+      2,
+      2,
+      188,
+      88
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      190,
+      90
+    ]
+  }
+}

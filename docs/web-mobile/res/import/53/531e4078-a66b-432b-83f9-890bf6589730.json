@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "verify",
+    "texture": "24aXmHEplHQ7k8jOTCN5py",
+    "rect": [
+      0,
+      0,
+      161,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      42
+    ]
+  }
+}

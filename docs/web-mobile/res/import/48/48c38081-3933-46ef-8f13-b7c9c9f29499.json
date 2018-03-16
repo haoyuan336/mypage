@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_bg1",
+    "texture": "2cU45p9JBJIZwib5aixY/A",
+    "rect": [
+      1,
+      1,
+      195,
+      695
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      197,
+      697
+    ]
+  }
+}

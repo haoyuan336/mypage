@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "history_see",
+    "texture": "c1bH9cg2FGeq0333w1na+Z",
+    "rect": [
+      1,
+      1,
+      172,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      60
+    ]
+  }
+}

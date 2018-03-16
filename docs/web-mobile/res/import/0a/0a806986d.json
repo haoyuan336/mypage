@@ -1,0 +1,344 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang02",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        64,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang03",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        126,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang07",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        374,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang04",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        188,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "DN_niu_guang.plist",
+    "_spriteFrames": {
+      "DN_niu_jinniu_guang01": {
+        "__uuid__": "6dW/RzXTBIRZko4zONCuxc"
+      },
+      "DN_niu_jinniu_guang02": {
+        "__uuid__": "d6QNNLSCRNnZTDhsXvcEoZ"
+      },
+      "DN_niu_jinniu_guang03": {
+        "__uuid__": "1b9ojvnT1PlZkqb3wZ6uKt"
+      },
+      "DN_niu_jinniu_guang04": {
+        "__uuid__": "eeehLcWRJAKp3eZCQRggG3"
+      },
+      "DN_niu_jinniu_guang05": {
+        "__uuid__": "c7mM6QoB5Airmnaa92fY0r"
+      },
+      "DN_niu_jinniu_guang06": {
+        "__uuid__": "feK475uiVAp72OIA41h/y4"
+      },
+      "DN_niu_jinniu_guang07": {
+        "__uuid__": "4d5kQiX7tFhbO3SuucawWk"
+      },
+      "DN_niu_yinniu_guang01": {
+        "__uuid__": "c6QKOqWM9Jdb0QZg8tfuMk"
+      },
+      "DN_niu_yinniu_guang02": {
+        "__uuid__": "19rpnluIRKsrJ2PfYmmfwo"
+      },
+      "DN_niu_yinniu_guang03": {
+        "__uuid__": "afsPiIHrxNgoG98kOIyr+l"
+      },
+      "DN_niu_yinniu_guang04": {
+        "__uuid__": "57IIM9Z9RLaofmgwWA1TJ0"
+      },
+      "DN_niu_yinniu_guang05": {
+        "__uuid__": "f7+ex731JN3arfIlX0CWkj"
+      },
+      "DN_niu_yinniu_guang06": {
+        "__uuid__": "ddyO7AeEhI8L83x4sBn6RW"
+      },
+      "DN_niu_yinniu_guang07": {
+        "__uuid__": "8bqgh+63dEIKVyHI93WG8t"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang01",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        2,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang07",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        374,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang03",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        126,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang01",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        2,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang05",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        250,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang02",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        64,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang06",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        312,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang04",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        188,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_yinniu_guang05",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        250,
+        36,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_jinniu_guang06",
+      "texture": "33113H4h1EN6n3G2KtGc7n",
+      "rect": [
+        312,
+        2,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  }
+]

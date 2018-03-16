@@ -1,0 +1,224 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang05",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        75,
+        68,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang06",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        148,
+        68,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang04",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        2,
+        68,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang07",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        2,
+        134,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang03",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        148,
+        2,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "DN_niu_zhadanniu_guang.plist",
+    "_spriteFrames": {
+      "DN_niu_zhandanniu_guang01": {
+        "__uuid__": "a0LP8SHK1Lxph0JwVnf+ne"
+      },
+      "DN_niu_zhandanniu_guang02": {
+        "__uuid__": "e46rUwE3lNFZg/xeUu57rA"
+      },
+      "DN_niu_zhandanniu_guang03": {
+        "__uuid__": "7c93uZx4xE6KlPGIIYDqdT"
+      },
+      "DN_niu_zhandanniu_guang04": {
+        "__uuid__": "28UJkNi9JGKbCW0lVtZLQW"
+      },
+      "DN_niu_zhandanniu_guang05": {
+        "__uuid__": "23fQg9WTNIHovrBMrBTkF9"
+      },
+      "DN_niu_zhandanniu_guang06": {
+        "__uuid__": "26szWhm3RBkasp1kjZOG+/"
+      },
+      "DN_niu_zhandanniu_guang07": {
+        "__uuid__": "6av4dhPINFlJqK+HO+Q7Mp"
+      },
+      "DN_niu_zhandanniu_guang08": {
+        "__uuid__": "e9dUjiFblHcpABTDUIJh8a"
+      },
+      "DN_niu_zhandanniu_guang09": {
+        "__uuid__": "d3i5psHO1KpYpBUOBcLD9g"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang01",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        2,
+        2,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang09",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        148,
+        134,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang02",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        75,
+        2,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_zhandanniu_guang08",
+      "texture": "b5hpgUJKdO+qZE/HlvqBsw",
+      "rect": [
+        75,
+        134,
+        71,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        64
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yq_BG2",
+    "texture": "80CvmK8ZJKc6QIAmxrLtt5",
+    "rect": [
+      0,
+      0,
+      441,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      441,
+      56
+    ]
+  }
+}

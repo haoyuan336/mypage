@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_shou",
+    "texture": "0d0iwAP0hEt5YL2g2LFbMS",
+    "rect": [
+      0,
+      2,
+      100,
+      98
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

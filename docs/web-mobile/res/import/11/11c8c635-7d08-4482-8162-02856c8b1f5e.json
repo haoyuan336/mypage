@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nsbg",
+    "texture": "0fK7rz6LhMMIPBGVmEsOYF",
+    "rect": [
+      5,
+      5,
+      240,
+      24
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      250,
+      40
+    ]
+  }
+}

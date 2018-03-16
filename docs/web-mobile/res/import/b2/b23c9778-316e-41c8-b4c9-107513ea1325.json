@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_confirmbg",
+    "texture": "169bq1UMxGUoBYWLkQjJ5u",
+    "rect": [
+      0,
+      0,
+      210,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      61
+    ]
+  }
+}

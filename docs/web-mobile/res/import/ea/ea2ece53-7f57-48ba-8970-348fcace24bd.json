@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coinbanner",
+    "texture": "d4OZN4yK1Lg4mdJNDmKuYe",
+    "rect": [
+      0,
+      0,
+      89,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      34
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nlbg",
+    "texture": "ceBGssTW1Pw5k/ASjwKTC2",
+    "rect": [
+      2,
+      5,
+      246,
+      29
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      250,
+      40
+    ]
+  }
+}

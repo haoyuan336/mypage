@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "create_room_line",
+    "texture": "ac2yjR7OlONKx09FC3vLoL",
+    "rect": [
+      0,
+      0,
+      452,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      452,
+      2
+    ]
+  }
+}

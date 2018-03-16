@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phb_tab0",
+    "texture": "73wOmn3JtEJa0cYoAVWatq",
+    "rect": [
+      9,
+      10,
+      263,
+      60
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      282,
+      81
+    ]
+  }
+}

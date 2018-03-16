@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PHZ_loading01",
+    "texture": "c1zpeIGz1NaKofC1rZ9cIb",
+    "rect": [
+      1,
+      0,
+      146,
+      148
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      148
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "DN_niu_baodian.plist",
+    "_spriteFrames": {
+      "DN_niu_baodian01": {
+        "__uuid__": "96dNCZwp5PYIQI75xPTUJo"
+      },
+      "DN_niu_baodian02": {
+        "__uuid__": "76UYDtIxJHNoIKP6jlPFaV"
+      },
+      "DN_niu_baodian03": {
+        "__uuid__": "f9r6V48CpPlKUI7TZTWPWn"
+      },
+      "DN_niu_baodian04": {
+        "__uuid__": "4aYW/A/0tL2LKdK46cNiGN"
+      },
+      "DN_niu_baodian05": {
+        "__uuid__": "2cD3v5OIBGabDWV+okqL6Q"
+      },
+      "DN_niu_baodian06": {
+        "__uuid__": "12FAVzN+JOWqYBnnEPPbSg"
+      },
+      "DN_niu_baodian07": {
+        "__uuid__": "fd7w+fHmFLioepsQJmLYf/"
+      },
+      "DN_niu_baodian08": {
+        "__uuid__": "fcPbzNO7tBBLYQ8dUno7s0"
+      },
+      "DN_niu_baodian09": {
+        "__uuid__": "8f66KNl6FBKayRHnAf/2zb"
+      },
+      "DN_niu_baodian10": {
+        "__uuid__": "d3uSfammRBwr8yvAf+Kud5"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian06",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        2,
+        149,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian05",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        766,
+        2,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian04",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        575,
+        2,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian02",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        193,
+        2,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian09",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        575,
+        149,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian01",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        2,
+        2,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian10",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        766,
+        149,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian03",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        384,
+        2,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian08",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        384,
+        149,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_niu_baodian07",
+      "texture": "a10KltAbVOLJQxz+BPMw2m",
+      "rect": [
+        193,
+        149,
+        189,
+        145
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        189,
+        145
+      ]
+    }
+  }
+]

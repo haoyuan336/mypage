@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_emoji_di",
+    "texture": "7e/T4QhwpMzbv0vwl9XjOp",
+    "rect": [
+      0,
+      0,
+      119,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      115
+    ]
+  }
+}

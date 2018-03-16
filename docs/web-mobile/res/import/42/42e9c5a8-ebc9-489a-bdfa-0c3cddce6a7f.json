@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line_interval",
+    "texture": "0b3WdGsF9Je4sUU5T+60rC",
+    "rect": [
+      0,
+      0,
+      4,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4,
+      37
+    ]
+  }
+}

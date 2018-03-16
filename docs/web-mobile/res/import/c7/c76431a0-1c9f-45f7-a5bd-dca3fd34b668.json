@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joinbg",
+    "texture": "743P8RelFJN69l7EWQoZ3k",
+    "rect": [
+      0,
+      0,
+      322,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      53
+    ]
+  }
+}

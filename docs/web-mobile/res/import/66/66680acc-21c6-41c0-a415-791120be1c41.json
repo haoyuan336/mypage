@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scoreadd",
+    "texture": "d03i2VzYJGtIndpyvrgOYK",
+    "rect": [
+      0,
+      0,
+      124,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      77
+    ]
+  }
+}

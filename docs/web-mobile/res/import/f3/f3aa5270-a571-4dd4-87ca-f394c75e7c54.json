@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_huang1",
+    "texture": "44xrZTU8hKQJh4K1FoBk66",
+    "rect": [
+      0,
+      0,
+      144,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      64
+    ]
+  }
+}

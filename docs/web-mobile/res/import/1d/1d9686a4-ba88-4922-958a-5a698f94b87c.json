@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "music",
+    "texture": "b9NnnFZbRCtbfxdInHXmBR",
+    "rect": [
+      2,
+      2,
+      101,
+      54
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      103,
+      56
+    ]
+  }
+}

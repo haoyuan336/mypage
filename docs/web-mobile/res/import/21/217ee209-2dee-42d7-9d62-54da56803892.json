@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_win1",
+    "texture": "daSWK+/X9OYKi4lCrVVaSN",
+    "rect": [
+      0,
+      0,
+      79,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      82
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_niu_baodian",
+    "texture": "a10KltAbVOLJQxz+BPMw2m",
+    "rect": [
+      12,
+      4,
+      939,
+      284
+    ],
+    "offset": [
+      3,
+      2
+    ],
+    "originalSize": [
+      957,
+      296
+    ]
+  }
+}

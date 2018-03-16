@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_lunbobg",
+    "texture": "e8liwyXqpLEYbt2neOe/Gw",
+    "rect": [
+      0,
+      0,
+      256,
+      456
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      456
+    ]
+  }
+}

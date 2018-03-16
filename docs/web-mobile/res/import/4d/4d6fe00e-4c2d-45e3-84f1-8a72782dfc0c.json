@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "final_result_happybean_number",
+    "texture": "1462+HIPlKt5SfBm8CIXrD",
+    "rect": [
+      0,
+      1,
+      230,
+      31
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      230,
+      32
+    ]
+  }
+}

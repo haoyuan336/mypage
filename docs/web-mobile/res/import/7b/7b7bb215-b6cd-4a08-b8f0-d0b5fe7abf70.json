@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_niu_cheng_guang",
+    "texture": "6ddOk37GpP4bW76rTYtJar",
+    "rect": [
+      0,
+      7,
+      256,
+      46
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      256,
+      64
+    ]
+  }
+}

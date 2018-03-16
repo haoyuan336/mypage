@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_refresh",
+    "texture": "cdO3XtwyBDwIxMIQGVCY5O",
+    "rect": [
+      0,
+      0,
+      56,
+      60
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      56,
+      61
+    ]
+  }
+}

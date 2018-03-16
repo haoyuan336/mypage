@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_emoji_flower",
+    "texture": "b2B6cLF7FGZ5iD+fe7A2+J",
+    "rect": [
+      0,
+      0,
+      74,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      94
+    ]
+  }
+}

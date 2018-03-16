@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_title",
+    "texture": "20y6XTvstCko7w4li6ViF4",
+    "rect": [
+      1,
+      2,
+      381,
+      152
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      383,
+      155
+    ]
+  }
+}

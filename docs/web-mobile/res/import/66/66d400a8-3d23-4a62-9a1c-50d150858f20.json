@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_cancel",
+    "texture": "f7DYiq3UJCpKflUIJhm7Ee",
+    "rect": [
+      0,
+      0,
+      222,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      222,
+      58
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PHZ_anniu_hu4",
+    "texture": "4dXUPV+ddGAIzVmLb7sRij",
+    "rect": [
+      0,
+      1,
+      105,
+      115
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      106,
+      117
+    ]
+  }
+}

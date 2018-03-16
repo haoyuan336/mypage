@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btClose",
+    "texture": "daHK0FYc1LYJ/cLRSYiLrX",
+    "rect": [
+      2,
+      3,
+      79,
+      78
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      84,
+      81
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl203",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        256,
+        292,
+        125,
+        176
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        176
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl204",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        383,
+        292,
+        125,
+        176
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        176
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl103",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        2,
+        147,
+        273,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        273,
+        143
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl104",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        277,
+        147,
+        273,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        273,
+        143
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "DN_tx_qiangzhuang_xl.plist",
+    "_spriteFrames": {
+      "DN_tx_qiangzhuang_xl101": {
+        "__uuid__": "f2z/JXMXBN2p6UTN5vr9wX"
+      },
+      "DN_tx_qiangzhuang_xl102": {
+        "__uuid__": "d0Tm0CH3lPm6q+MKCLTyja"
+      },
+      "DN_tx_qiangzhuang_xl103": {
+        "__uuid__": "6fLt0zDXhHp44NtVjQ6b2h"
+      },
+      "DN_tx_qiangzhuang_xl104": {
+        "__uuid__": "b5TetJEm9HaZfYm+7I005M"
+      },
+      "DN_tx_qiangzhuang_xl201": {
+        "__uuid__": "e4AAZeMWtIoLXl41UcMnNt"
+      },
+      "DN_tx_qiangzhuang_xl202": {
+        "__uuid__": "ebMvMZ031CGp042p5QHuAR"
+      },
+      "DN_tx_qiangzhuang_xl203": {
+        "__uuid__": "0d1f9ghl1D36mjvJrhHqNI"
+      },
+      "DN_tx_qiangzhuang_xl204": {
+        "__uuid__": "56kwCYpu1CuamG/T1hbC7d"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl102",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        277,
+        2,
+        273,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        273,
+        143
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl201",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        2,
+        292,
+        125,
+        176
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        176
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl202",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        129,
+        292,
+        125,
+        176
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        176
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_tx_qiangzhuang_xl101",
+      "texture": "68D+P0raxBYISe4bsK2MzS",
+      "rect": [
+        2,
+        2,
+        273,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        273,
+        143
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuo",
+    "texture": "03d3l1bGJG2rg72afXf7CS",
+    "rect": [
+      3,
+      1,
+      42,
+      43
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      48,
+      44
+    ]
+  }
+}

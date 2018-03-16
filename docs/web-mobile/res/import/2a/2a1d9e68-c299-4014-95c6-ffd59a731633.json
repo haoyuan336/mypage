@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiesuan_item",
+    "texture": "cfZ7B8o+9PdJFuYXHAnkv5",
+    "rect": [
+      0,
+      0,
+      311,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      311,
+      490
+    ]
+  }
+}

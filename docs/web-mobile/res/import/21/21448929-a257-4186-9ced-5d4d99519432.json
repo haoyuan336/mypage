@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice_xm",
+    "texture": "50XZUQp6pFJ7VsAG6vEnPv",
+    "rect": [
+      2,
+      1,
+      93,
+      93
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      95,
+      95
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkversionbtn",
+    "texture": "5bbv51LfpLbKLTkJ33xNZ9",
+    "rect": [
+      0,
+      0,
+      196,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      70
+    ]
+  }
+}

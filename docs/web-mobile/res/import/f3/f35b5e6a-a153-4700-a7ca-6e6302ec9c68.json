@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_ttz",
+    "texture": "3c6CJcaExE8ISzu6ybtEMB",
+    "rect": [
+      0,
+      0,
+      649,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      649,
+      48
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "round_rect_91",
+    "texture": "feLmHEEjlH+p1miBYs68vw",
+    "rect": [
+      0,
+      0,
+      91,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      32
+    ]
+  }
+}

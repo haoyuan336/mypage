@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tishiBg",
+    "texture": "25po0H7pJO36ph8WHPYp0c",
+    "rect": [
+      2,
+      1,
+      828,
+      495
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      832,
+      498
+    ]
+  }
+}

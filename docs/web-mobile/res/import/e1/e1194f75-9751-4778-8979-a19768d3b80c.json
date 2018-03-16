@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_huifang",
+    "texture": "b6m6aWa/hAZbmzhLOp/Jpf",
+    "rect": [
+      0,
+      0,
+      143,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      80
+    ]
+  }
+}

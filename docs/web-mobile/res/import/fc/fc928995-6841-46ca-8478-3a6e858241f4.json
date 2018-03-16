@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cheng1",
+    "texture": "46FNWEzsFFpbEDFEnF+dgI",
+    "rect": [
+      0,
+      0,
+      144,
+      63
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      144,
+      64
+    ]
+  }
+}

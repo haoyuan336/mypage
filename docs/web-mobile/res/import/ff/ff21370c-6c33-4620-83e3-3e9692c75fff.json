@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "transparent_72x72",
+    "texture": "77xiYPNNNAFIqqrM1/MgVC",
+    "rect": [
+      66,
+      66,
+      0,
+      0
+    ],
+    "offset": [
+      33,
+      -33
+    ],
+    "originalSize": [
+      66,
+      66
+    ]
+  }
+}

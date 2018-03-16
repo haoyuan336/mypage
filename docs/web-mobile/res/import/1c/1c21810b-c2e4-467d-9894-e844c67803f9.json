@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "messagebg",
+    "texture": "7cXWJUm09LWqBvPo0NWqyc",
+    "rect": [
+      0,
+      0,
+      420,
+      475
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      475
+    ]
+  }
+}

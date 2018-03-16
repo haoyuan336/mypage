@@ -1,0 +1,368 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang003",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        326,
+        2,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang004",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        2,
+        90,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang008",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        164,
+        178,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang013",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        2,
+        354,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang012",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        326,
+        266,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang015",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        326,
+        354,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang011",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        164,
+        266,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang002",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        164,
+        2,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang007",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        2,
+        178,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang005",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        164,
+        90,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang001",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        2,
+        2,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang006",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        326,
+        90,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang009",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        326,
+        178,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "DN_xiangkuang_guang0.plist",
+    "_spriteFrames": {
+      "DN_xiangkuang_guang001": {
+        "__uuid__": "9a3YPakElPw7UJoJt9oVuT"
+      },
+      "DN_xiangkuang_guang002": {
+        "__uuid__": "8ab7U6NzdOv6Z87wxnB7De"
+      },
+      "DN_xiangkuang_guang003": {
+        "__uuid__": "0afoaE4TNKjanTmWyqKpJk"
+      },
+      "DN_xiangkuang_guang004": {
+        "__uuid__": "17/1r8Ii1Ilb/gH/8S77dh"
+      },
+      "DN_xiangkuang_guang005": {
+        "__uuid__": "991yV2gRlN26oZwdJMUbJT"
+      },
+      "DN_xiangkuang_guang006": {
+        "__uuid__": "aaPyWJwq5K2ZusoNpOzEri"
+      },
+      "DN_xiangkuang_guang007": {
+        "__uuid__": "92Aq/I2QxCQ5d/n76hZrMm"
+      },
+      "DN_xiangkuang_guang008": {
+        "__uuid__": "37369z9DpL0b5xbgBPQcuB"
+      },
+      "DN_xiangkuang_guang009": {
+        "__uuid__": "ad7Zqv6lRDlZH3r7qVy4yk"
+      },
+      "DN_xiangkuang_guang010": {
+        "__uuid__": "fd63vb9IxNs4B+h9EZ988b"
+      },
+      "DN_xiangkuang_guang011": {
+        "__uuid__": "80HFyhhlhD+piag4/ti+Ss"
+      },
+      "DN_xiangkuang_guang012": {
+        "__uuid__": "39hEJLOntBRo7HaesSz2eJ"
+      },
+      "DN_xiangkuang_guang013": {
+        "__uuid__": "382J4fJo1D9531C+w2mooX"
+      },
+      "DN_xiangkuang_guang014": {
+        "__uuid__": "c9cg0KSOBKsYzHbSQJd/Dd"
+      },
+      "DN_xiangkuang_guang015": {
+        "__uuid__": "78Tyw+hqpOZKM0674VpdXC"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang014",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        164,
+        354,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "DN_xiangkuang_guang010",
+      "texture": "45wWVQ/URO8YA1zjyq4L4M",
+      "rect": [
+        2,
+        266,
+        160,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        160,
+        86
+      ]
+    }
+  }
+]

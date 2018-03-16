@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_yaoqing",
+    "texture": "1dKrQNVSxPB5nQe7hmM51M",
+    "rect": [
+      0,
+      1,
+      77,
+      77
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      77,
+      78
+    ]
+  }
+}

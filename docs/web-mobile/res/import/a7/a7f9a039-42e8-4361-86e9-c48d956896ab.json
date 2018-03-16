@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "back_searchpai",
+    "texture": "c6j1LufSJOH68sxCuzHwOg",
+    "rect": [
+      0,
+      1,
+      50,
+      40
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      50,
+      41
+    ]
+  }
+}

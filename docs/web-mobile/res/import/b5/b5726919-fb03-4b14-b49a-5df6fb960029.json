@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_finish",
+    "texture": "bcSbcbMMZKN7Mdbry3YGMg",
+    "rect": [
+      0,
+      0,
+      95,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      46
+    ]
+  }
+}

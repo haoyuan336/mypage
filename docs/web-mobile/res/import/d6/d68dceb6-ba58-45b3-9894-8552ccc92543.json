@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_g_xiao",
+    "texture": "4eltLGd4NP1KB8sOlRFO7S",
+    "rect": [
+      0,
+      0,
+      199,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      87
+    ]
+  }
+}

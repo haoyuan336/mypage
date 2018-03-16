@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_lb",
+    "texture": "8fBfOLpddOwJVn+Nl82NNU",
+    "rect": [
+      0,
+      0,
+      945,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      945,
+      41
+    ]
+  }
+}

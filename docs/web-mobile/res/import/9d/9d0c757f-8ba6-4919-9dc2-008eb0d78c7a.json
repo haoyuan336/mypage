@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_xiangkuang_guang0",
+    "texture": "45wWVQ/URO8YA1zjyq4L4M",
+    "rect": [
+      12,
+      11,
+      464,
+      410
+    ],
+    "offset": [
+      0,
+      5
+    ],
+    "originalSize": [
+      488,
+      442
+    ]
+  }
+}

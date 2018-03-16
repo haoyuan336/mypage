@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jsfj",
+    "texture": "d2vlK/KxRNb4XAKHaEvDND",
+    "rect": [
+      15,
+      7,
+      207,
+      50
+    ],
+    "offset": [
+      2.5,
+      2.5
+    ],
+    "originalSize": [
+      232,
+      69
+    ]
+  }
+}

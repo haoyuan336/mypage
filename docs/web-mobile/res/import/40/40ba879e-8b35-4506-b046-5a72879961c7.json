@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_notice",
+    "texture": "fbUgyzz2tJk5u2vxeK5W9Q",
+    "rect": [
+      0,
+      2,
+      165,
+      74
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      166,
+      76
+    ]
+  }
+}

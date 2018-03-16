@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PHZ_anniu_hu_guang",
+    "texture": "ca8rYoUkhBcqaTD/UDeuZh",
+    "rect": [
+      0,
+      0,
+      169,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      169
+    ]
+  }
+}

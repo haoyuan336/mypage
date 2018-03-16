@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setting_jyqd",
+    "texture": "560fxnLY9JK6PGZ29Kk39l",
+    "rect": [
+      0,
+      0,
+      180,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      47
+    ]
+  }
+}

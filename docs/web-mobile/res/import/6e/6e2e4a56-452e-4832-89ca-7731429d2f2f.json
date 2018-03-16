@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_meiniu",
+    "texture": "b8zNGKCHZCl6VHaRQeepTQ",
+    "rect": [
+      0,
+      0,
+      159,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      68
+    ]
+  }
+}

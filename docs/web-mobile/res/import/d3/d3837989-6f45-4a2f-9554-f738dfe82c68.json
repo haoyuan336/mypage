@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_niu_heidi",
+    "texture": "77eojQhapKP4eMAFIfXDE/",
+    "rect": [
+      0,
+      0,
+      209,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      100
+    ]
+  }
+}

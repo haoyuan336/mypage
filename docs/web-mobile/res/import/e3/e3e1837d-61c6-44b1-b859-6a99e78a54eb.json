@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "equipupgrade_progress_",
+    "texture": "cfYIPOzkRKlILQzyB7+ZJR",
+    "rect": [
+      1,
+      3,
+      840,
+      17
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      842,
+      24
+    ]
+  }
+}

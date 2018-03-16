@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cbt3",
+    "texture": "83hZfwiZVL8YRqs+rdXnLd",
+    "rect": [
+      1,
+      0,
+      230,
+      93
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      232,
+      94
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_leave",
+    "texture": "f31rSpa4ZFQ6mpNBU8V6Vn",
+    "rect": [
+      17,
+      14,
+      205,
+      45
+    ],
+    "offset": [
+      3.5,
+      -2
+    ],
+    "originalSize": [
+      232,
+      69
+    ]
+  }
+}

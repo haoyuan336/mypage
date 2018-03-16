@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "selectscore_bg",
+    "texture": "ffWaAhSmBGToxI9zUZFCTG",
+    "rect": [
+      0,
+      0,
+      327,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      327,
+      69
+    ]
+  }
+}

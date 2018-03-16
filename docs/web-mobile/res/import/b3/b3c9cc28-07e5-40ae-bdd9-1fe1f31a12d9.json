@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "next_searchpai",
+    "texture": "ddw4Z9J8ZEtIigZ3Nu4mLl",
+    "rect": [
+      0,
+      1,
+      50,
+      40
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      50,
+      41
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "speaker3",
+    "texture": "efnIvYYaxHs58t0Rh4lDdK",
+    "rect": [
+      0,
+      0,
+      21,
+      26
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      22,
+      26
+    ]
+  }
+}

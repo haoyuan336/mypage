@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangtiao",
+    "texture": "b9YM+zJRNOlphTbZGrc6/4",
+    "rect": [
+      0,
+      0,
+      385,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      385,
+      29
+    ]
+  }
+}

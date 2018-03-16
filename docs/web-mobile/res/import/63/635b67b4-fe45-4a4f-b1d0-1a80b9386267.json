@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_zuoxia",
+    "texture": "f1OfWx1ctGoJPAvbtsen2h",
+    "rect": [
+      2,
+      0,
+      213,
+      73
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      217,
+      75
+    ]
+  }
+}

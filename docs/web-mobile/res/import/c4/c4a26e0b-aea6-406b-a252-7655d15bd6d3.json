@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lasthuigu",
+    "texture": "d42mRMAlRMhrzrgaEYmXhT",
+    "rect": [
+      17,
+      9,
+      206,
+      53
+    ],
+    "offset": [
+      4,
+      -1
+    ],
+    "originalSize": [
+      232,
+      69
+    ]
+  }
+}

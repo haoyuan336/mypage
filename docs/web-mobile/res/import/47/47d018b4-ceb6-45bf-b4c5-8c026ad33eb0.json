@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battery_bg",
+    "texture": "ebPB2CP7ZHWoHaul2p5cOQ",
+    "rect": [
+      0,
+      0,
+      34,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      16
+    ]
+  }
+}

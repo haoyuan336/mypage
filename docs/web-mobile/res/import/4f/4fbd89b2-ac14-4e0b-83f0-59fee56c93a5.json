@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lv2",
+    "texture": "36DsYaxG5KqKQS5gLp5a1Y",
+    "rect": [
+      0,
+      0,
+      203,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      64
+    ]
+  }
+}

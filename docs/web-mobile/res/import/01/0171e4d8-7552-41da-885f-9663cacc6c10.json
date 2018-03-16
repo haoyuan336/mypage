@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_bg",
+    "texture": "efkom+wIVCGJpNd+iK2Lyg",
+    "rect": [
+      0,
+      0,
+      765,
+      643
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      765,
+      643
+    ]
+  }
+}

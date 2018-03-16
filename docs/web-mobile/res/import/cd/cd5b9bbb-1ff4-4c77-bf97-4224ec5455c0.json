@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_tooshort",
+    "texture": "60/L/lMotBNL58SNWoxiYn",
+    "rect": [
+      0,
+      0,
+      146,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      24
+    ]
+  }
+}

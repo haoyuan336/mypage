@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_commit",
+    "texture": "04bYhP9OFDt4Y5YKA6B/ZN",
+    "rect": [
+      1,
+      0,
+      199,
+      68
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      201,
+      69
+    ]
+  }
+}

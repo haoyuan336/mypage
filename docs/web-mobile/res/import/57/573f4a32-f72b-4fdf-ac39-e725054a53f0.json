@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanbi",
+    "texture": "829+snP8VE8LPirRYQxzS+",
+    "rect": [
+      0,
+      0,
+      89,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      93
+    ]
+  }
+}

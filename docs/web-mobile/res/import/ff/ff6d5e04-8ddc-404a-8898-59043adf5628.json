@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pointshow",
+    "texture": "1fevgdM1JAOarVXqPn44pJ",
+    "rect": [
+      2,
+      2,
+      504,
+      820
+    ],
+    "offset": [
+      -2,
+      100
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

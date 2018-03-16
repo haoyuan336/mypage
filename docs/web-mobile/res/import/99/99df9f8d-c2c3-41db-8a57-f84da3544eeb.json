@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_dkjl1",
+    "texture": "264BtZn4hOiKzRRZnoGLnj",
+    "rect": [
+      41,
+      13,
+      142,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      68
+    ]
+  }
+}

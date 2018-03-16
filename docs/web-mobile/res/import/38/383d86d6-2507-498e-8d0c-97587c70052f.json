@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huifang_title",
+    "texture": "c3YXZAEtJNsqgbbbTr+WjP",
+    "rect": [
+      2,
+      3,
+      133,
+      83
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      139,
+      87
+    ]
+  }
+}

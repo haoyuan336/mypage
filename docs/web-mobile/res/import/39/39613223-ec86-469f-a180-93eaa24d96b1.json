@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "create_room_bg2",
+    "texture": "99cyjgP0RMbJVO52Xoookk",
+    "rect": [
+      0,
+      0,
+      789,
+      530
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      789,
+      530
+    ]
+  }
+}

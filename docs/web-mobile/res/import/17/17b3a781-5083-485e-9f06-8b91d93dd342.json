@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomcreate_huzi",
+    "texture": "5aGyYg3vJKZ7owEoYs7iTl",
+    "rect": [
+      1,
+      0,
+      338,
+      439
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      439
+    ]
+  }
+}

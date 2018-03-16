@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_youniu",
+    "texture": "95xT/5j+FHa7CUr1WYd33t",
+    "rect": [
+      0,
+      0,
+      159,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      68
+    ]
+  }
+}

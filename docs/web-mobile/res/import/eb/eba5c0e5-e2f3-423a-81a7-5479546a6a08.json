@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PopTishi",
+    "texture": "ecb/c7pRdIC6sfdwgfVlF3",
+    "rect": [
+      0,
+      0,
+      743,
+      423
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      743,
+      423
+    ]
+  }
+}

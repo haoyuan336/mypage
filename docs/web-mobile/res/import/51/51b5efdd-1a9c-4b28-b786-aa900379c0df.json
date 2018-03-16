@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_hf",
+    "texture": "8eBQ0Tm11HC5RxILk2nMJq",
+    "rect": [
+      0,
+      0,
+      119,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      69
+    ]
+  }
+}

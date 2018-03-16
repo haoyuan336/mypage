@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_niu_cheng1",
+    "texture": "dcDzQcN/JCIpXD5qcpwo1y",
+    "rect": [
+      0,
+      0,
+      25,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      26
+    ]
+  }
+}

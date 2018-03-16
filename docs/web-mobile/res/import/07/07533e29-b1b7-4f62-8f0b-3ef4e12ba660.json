@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DN_tx_qiangzhuang_xl",
+    "texture": "68D+P0raxBYISe4bsK2MzS",
+    "rect": [
+      5,
+      10,
+      536,
+      454
+    ],
+    "offset": [
+      -3,
+      -2
+    ],
+    "originalSize": [
+      552,
+      470
+    ]
+  }
+}

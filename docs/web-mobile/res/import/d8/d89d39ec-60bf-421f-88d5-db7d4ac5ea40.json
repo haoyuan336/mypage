@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_emoji_egg",
+    "texture": "07ImIxp5xIwb2ZiHvhOL8P",
+    "rect": [
+      0,
+      0,
+      65,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      85
+    ]
+  }
+}

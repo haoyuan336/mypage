@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_join_04",
+    "texture": "0bAE+cMGJEBZlbZsj7KGwH",
+    "rect": [
+      0,
+      0,
+      180,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      83
+    ]
+  }
+}

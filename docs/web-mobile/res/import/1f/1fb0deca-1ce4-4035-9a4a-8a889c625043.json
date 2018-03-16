@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gainBg",
+    "texture": "29d7RKc4VDs5JTJWuwTARQ",
+    "rect": [
+      0,
+      0,
+      782,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      782,
+      720
+    ]
+  }
+}
