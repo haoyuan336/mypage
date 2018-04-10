@@ -1,0 +1,25 @@
+{
+  "bg": [
+    "assets/cutfruit/music_nogg/bg.mp3"
+  ],
+  "sounds": [
+    "assets/cutfruit/music_nogg/addfruit_0.wma",
+    "assets/cutfruit/music_nogg/addfruit_1.wma",
+    "assets/cutfruit/music_nogg/cut_apple.wma",
+    "assets/cutfruit/music_nogg/cut_banana.wma",
+    "assets/cutfruit/music_nogg/cut_bomb.wma",
+    "assets/cutfruit/music_nogg/cut_dargonfruit.wma",
+    "assets/cutfruit/music_nogg/cut_orange.wma",
+    "assets/cutfruit/music_nogg/cut_watermelon.wma",
+    "assets/cutfruit/music_nogg/cuteffect_0.wma",
+    "assets/cutfruit/music_nogg/cuteffect_1.wma",
+    "assets/cutfruit/music_nogg/cuteffect_2.wma",
+    "assets/cutfruit/music_nogg/gameover.wma",
+    "assets/cutfruit/music_nogg/gamestart.wma",
+    "assets/cutfruit/music_nogg/red_bag0.wma",
+    "assets/cutfruit/music_nogg/red_bag1.wma",
+    "assets/cutfruit/music_nogg/readygo.wma",
+    "assets/cutfruit/music_nogg/red_bomb.wma"
+
+  ]
+}

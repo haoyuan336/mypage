@@ -1,0 +1,92 @@
+{"frames": {
+
+"flash_white_1.png":
+{
+	"frame": {"x":2,"y":917,"w":44,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":775,"w":44,"h":25},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_2.png":
+{
+	"frame": {"x":57,"y":805,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":742,"w":47,"h":58},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_3.png":
+{
+	"frame": {"x":2,"y":805,"w":52,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":691,"w":52,"h":109},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_4.png":
+{
+	"frame": {"x":322,"y":2,"w":57,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":634,"w":57,"h":166},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_5.png":
+{
+	"frame": {"x":119,"y":712,"w":65,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":554,"w":65,"h":246},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_6.png":
+{
+	"frame": {"x":311,"y":552,"w":72,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":469,"w":72,"h":331},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_7.png":
+{
+	"frame": {"x":228,"y":552,"w":80,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":386,"w":80,"h":414},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_8.png":
+{
+	"frame": {"x":228,"y":2,"w":91,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":253,"w":91,"h":547},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_9.png":
+{
+	"frame": {"x":119,"y":2,"w":106,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":93,"w":106,"h":707},
+	"sourceSize": {"w":480,"h":800}
+},
+"flash_white_10.png":
+{
+	"frame": {"x":2,"y":2,"w":114,"h":800},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":0,"w":114,"h":800},
+	"sourceSize": {"w":480,"h":800}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ani_flash_white.png",
+	"format": "RGBA8888",
+	"size": {"w":385,"h":968},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c4bdb034cdc3ff7ea09c73ea8b7db4e7:0950ddc266013768182116e9e439f2db:91b7145ab65c462678c7fd8878c1bb58$"
+}
+}

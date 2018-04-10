@@ -1,0 +1,108 @@
+{"frames": {
+
+"spark_1.png":
+{
+	"frame": {"x":123,"y":2,"w":95,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":29,"w":95,"h":152},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_2.png":
+{
+	"frame": {"x":101,"y":669,"w":96,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":24,"w":96,"h":112},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_3.png":
+{
+	"frame": {"x":2,"y":159,"w":104,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":15,"w":104,"h":141},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_4.png":
+{
+	"frame": {"x":2,"y":2,"w":118,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":118,"h":154},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_5.png":
+{
+	"frame": {"x":2,"y":674,"w":93,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":2,"w":93,"h":106},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_6.png":
+{
+	"frame": {"x":2,"y":551,"w":96,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":96,"h":120},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_7.png":
+{
+	"frame": {"x":2,"y":303,"w":104,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":104,"h":120},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_8.png":
+{
+	"frame": {"x":101,"y":552,"w":106,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":26,"w":106,"h":114},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_9.png":
+{
+	"frame": {"x":106,"y":429,"w":107,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":34,"w":107,"h":120},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_10.png":
+{
+	"frame": {"x":2,"y":426,"w":101,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":33,"w":101,"h":122},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_11.png":
+{
+	"frame": {"x":109,"y":296,"w":106,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":30,"w":106,"h":130},
+	"sourceSize": {"w":121,"h":181}
+},
+"spark_12.png":
+{
+	"frame": {"x":123,"y":157,"w":95,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":29,"w":95,"h":136},
+	"sourceSize": {"w":121,"h":181}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ani_spark.png",
+	"format": "RGBA8888",
+	"size": {"w":220,"h":783},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d5faf5489b269fa56afc5e296535811d:8d3c47b7e7df6ee5764055593bd61e41:057e35c674b7a0b84e9f09e0a690c81f$"
+}
+}

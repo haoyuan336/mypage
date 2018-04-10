@@ -1,0 +1,44 @@
+{"frames": {
+
+"bomb_1.png":
+{
+	"frame": {"x":2,"y":2,"w":69,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":107},
+	"sourceSize": {"w":69,"h":107}
+},
+"bomb_2.png":
+{
+	"frame": {"x":2,"y":112,"w":69,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":107},
+	"sourceSize": {"w":69,"h":107}
+},
+"bomb_3.png":
+{
+	"frame": {"x":74,"y":2,"w":69,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":107},
+	"sourceSize": {"w":69,"h":107}
+},
+"bomb_4.png":
+{
+	"frame": {"x":74,"y":112,"w":69,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":107},
+	"sourceSize": {"w":69,"h":107}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ani_bomb.png",
+	"format": "RGBA8888",
+	"size": {"w":145,"h":221},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1b14e780dd616e7d30be447427f26542:5df9a8e773f129f726d83186c87216bb:dd37c07cea8d6a152aab1539e9c5ce01$"
+}
+}
